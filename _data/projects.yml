@@ -1,0 +1,9 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# ethplace.io
+- project: ethplace.io
+  role: Co-Founder & Technical Evangelist
+  duration: 2018 &mdash; Present
+  url: "https://ethplace.io"
+  description: Public crypto art aka r/place in Ethereum network. Written in Vanilla JS and Scala.

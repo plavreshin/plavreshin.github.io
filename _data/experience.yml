@@ -1,0 +1,44 @@
+# Evolution
+- company: <a href="https://www.evolutiongaming.com/">Evolution Gaming</a>
+  position: Software engineer
+  duration: Jan, 2014 &mdash; Present
+  summary: TDD development of new products in Scala / Typesafe / Lightbend stack. Breaking up monolith into microservices. Developing new products in event-sourced way.<ul class="resume-item-list"><li>Internal R&D development of BigData solutions, applying Hadoop, Apache Kafka, Apache Spark, and LinkedIn Camus.</li><li>Internal Back office development in Typescript and React / Redux</li><li>Functional tests development in ScalaTest / Selenium</li></ul>
+
+# Bitcasino
+- company: <a href="http://coingaming.io/">Coingaming</a>
+  position: Contract Software engineer
+  duration: Jul, 2016 &mdash; Nov 2016
+  summary: Greenfield RNG games development from scratch, crafted scalable solutions consisting of custom RNG engine, Blackjack, Baccarat and Roulette games.<ul class="resume-item-list"><li>Scala / Akka / RabbitMQ / Eventstore / PostgreSQL</li><li>ProdOps and DevOps, including CI/CD pipelines with delivery of docker containers to Amazon AWS</li></ul>
+
+
+# Maksekeskus
+- company: <a href="https://maksekeskus.ee/">Maksekeskus</a>
+  position: Contract Software engineer
+  duration: Feb, 2014 &mdash; Apr, 2014
+  summary: Front-end and Back-end development for payments provider, DevOps in Amazon AWS. Java 7/8 and Spring boot stack.
+
+
+# Helmes AS
+- company: <a href="https://www.helmes.com/">Helmes AS</a>
+  position: Contract Software engineer
+  duration: Oct, 2013  &mdash; Jan, 2014
+  summary: Leading a small team of full-stack engineers, crafting MVP products for Public sector. AngularJS 1.x / Java8 / Spring4 / PostgreSQL.
+
+  # Helmes AS
+- company: <a href="https://elisa.fi/">Elisa Oyj / Tieto </a>
+  position: Contract Software engineer
+  duration: Nov, 2012  &mdash; Sep, 2013
+  summary: Internal back office development for largest Finnish Telco company. TDD development of new products, DevOps. Java 6/7, Scala, Spring, Vmware, Wicket.
+
+  # Kambi AS
+- company: <a href="https://www.kambi.com">Kambi</a>
+  position: Contract Software engineer
+  duration: Aug, 2012  &mdash; Oct, 2012
+  summary: Crafting scalable Sportsbook platform, supporting Product Owners with technical insight. Java7 / Spring / Terracotta / ActiveMQ.
+
+  # Kambi AS
+- company: <a href="">Affecto</a>
+  position: Contract Software engineer
+  duration: Aug, 2012  &mdash; Oct, 2012
+  summary: Crafting scalable Sportsbook platform, supporting Product Owners with technical insight. Java7 / Spring / Terracotta / ActiveMQ.
+
